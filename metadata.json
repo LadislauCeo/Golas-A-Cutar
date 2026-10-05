@@ -1,0 +1,6 @@
+{
+  "name": "KUTAR STREETWEAR - T-shirts de Gola a Cutar",
+  "description": "Loja exclusiva de T-shirts de gola a cutar. 100% algodão premium, estilo streetwear moderno. Preço único de 6.000 Kz. Atendimento 24h/24h.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
